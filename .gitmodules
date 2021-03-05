@@ -1,3 +1,9 @@
 [submodule "magic"]
 	path = magic
 	url = https://github.com/jeriewang/magic
+[submodule "binwalk"]
+	path = binwalk
+	url = https://github.com/ReFirmLabs/binwalk
+[submodule "exiftool"]
+	path = exiftool
+	url = https://github.com/exiftool/exiftool
